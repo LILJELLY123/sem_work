@@ -11,3 +11,6 @@ class ByeWorld:
 
 bye = ByeWorld()
 bye.print_bye()
+class World:
+    def print_bye(self):
+        print("Bye Bye, world!")
