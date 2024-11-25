@@ -1,6 +1,6 @@
 class HelloWorld:
     def print_hello(self):
-        print("Hello, world!")
+        print("Goodbye, world!")
 
 hello = HelloWorld()
 hello.print_hello()
