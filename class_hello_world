@@ -4,3 +4,16 @@ class HelloWorld:
 
 hello = HelloWorld()
 hello.print_hello()
+
+class ByeWorld:
+    def print_bye(self):
+        print("Hello, world!")
+
+bye = ByeWorld()
+bye.print_bye()
+
+class World:
+    def print_bye(self):
+        print("Bye Bye, world!")
+bye = World()
+bye.print_bye()
